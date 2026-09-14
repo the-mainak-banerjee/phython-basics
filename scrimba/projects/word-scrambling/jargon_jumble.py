@@ -1,5 +1,4 @@
 import random
-
 word_bank = [
     ("standup", "Every morning, our fifteen-minute ____ meeting lasts until lunch."),
     ("syntax", "One missing bracket, and Python hits me with a ____ error."),
